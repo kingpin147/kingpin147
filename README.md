@@ -26,13 +26,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Nouman-Attique&show_icons=true&theme=radical" alt="M Nouman Attique's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kingpin147&show_icons=true&theme=radical" alt="M Nouman Attique's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Nouman-Attique&theme=radical" alt="M Nouman Attique's GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingpin147&theme=radical" alt="M Nouman Attique's GitHub streak stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Nouman-Attique&layout=compact&theme=radical" alt="M Nouman Attique's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingpin147&layout=compact&theme=radical" alt="M Nouman Attique's top languages" />
 </p>
 
 ### 📝 Latest Blog Posts
