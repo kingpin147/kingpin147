@@ -22,6 +22,7 @@
 - [**Project 7**](https://github.com/kingpin147/login_next_auth): Next js Authentication using next-auth.
 - [**Project 8**](https://github.com/kingpin147/calculator): Next js Calculator App.
 - [**Project 9**](https://github.com/kingpin147/blog): Next js Blog App.
+- [**Project 10**](https://github.com/kingpin147/Angular-Calendar-App): Angular Calendar App.
 
 
 ### 📊 GitHub Stats
