@@ -6,11 +6,11 @@
 - 🔭 I’m currently working on **Custom Gpts and Gpt Actions**
 
 ### 🛠 Tech Stack
-- 💻 **Languages:** HTML, CSS, JavaScript, Python
+- 💻 **Languages:** HTML, CSS, JavaScript, Typescript
 - 🌐 **Frontend:** React, Next.js
-- 🛠️ **Backend:** Node.js, Express.js
-- 💾 **Databases:** MongoDB, MySQL, PostgreSQL
-- 🔧 **Tools:** Git, Docker
+- 🛠️ **Backend:** Node.js, Express.js, Python, Poetry, FastApi, SQLModel, 
+- 💾 **Databases:** MongoDB, MySQL, PostgreSQL, Drizzle, Neon
+- 🔧 **Tools:** Git, Docker, Docker Compose, Kafka
 
 
 <h3 align="left">Languages and Tools:</h3>
