@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Muhammad+Nouman+Attique" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=435&lines="`Hi+there!+%F0%9F%91%8B+I+am+Muhammad+Nouman+Attique` />
   </a>
 </h1>
 <h3 align="center">A passionate Web Developer expertise in TypeScript, Next.js, Python, FastAPI and Docker</h3>
