@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadbilalfarooqi&label=Profile%20views&color=0e75b6&style=flat" alt="NoumanAttique" /> </p>
 
-- 🔭 I’m currently working on **Crew AI**
+- 🔭 I’m currently working on **Low-Code n8n Agentic AI**
 
 ### 🛠 Tech Stack
 - 💻 **Languages:** HTML, CSS, JavaScript, Typescript
