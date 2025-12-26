@@ -23,10 +23,10 @@
 **Certified Wix Developer** crafting high-performance web solutions with modern technologies. Specializing in full-stack development, AI integration, and creating stunning digital experiences that scale.
 
 - 🏆 **Wix Certified Developer** - Building enterprise-grade Wix solutions
-- � Architecting **AI-powered automation workflows** with n8n
-- � Creating **pixel-perfect, responsive** web experiences
-- 🚀 Passionate about **cutting-edge tech** and **clean code**
-- � Merging **creativity with code** to solve real-world problems
+- 🏗️ **Architecting AI-powered automation** workflows with n8n
+- 🎨 **Creating pixel-perfect, responsive** web experiences
+- 🚀 **Passionate about cutting-edge tech** and clean code
+- 💡 **Merging creativity with code** to solve real-world problems
 
 <br/>
 
@@ -39,8 +39,7 @@
 <td align="center" width="50%">
 
 ### 🌐 [**Explore My Projects →**](https://www.tnndesigns.com/projects)
-**T&N Designs Portfolio**  
-Discover cutting-edge web solutions, AI integrations, and creative digital experiences
+**T&N Designs Portfolio** Discover cutting-edge web solutions, AI integrations, and creative digital experiences
 
 <a href="https://www.tnndesigns.com/projects">
   <img src="https://img.shields.io/badge/Visit_Portfolio-FF3366?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
@@ -50,8 +49,7 @@ Discover cutting-edge web solutions, AI integrations, and creative digital exper
 <td align="center" width="50%">
 
 ### ⭐ [**Wix Studio Partner →**](https://www.wix.com/studio/community/partners/t-&-n-designs)
-**T&N Designs - Official Wix Partner**  
-Professional Wix development services for businesses worldwide
+**T&N Designs - Official Wix Partner** Professional Wix development services for businesses worldwide
 
 <a href="https://www.wix.com/studio/community/partners/t-&-n-designs">
   <img src="https://img.shields.io/badge/Wix_Partner_Profile-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" alt="Wix Partner" />
@@ -121,7 +119,7 @@ Professional Wix development services for businesses worldwide
 <tr>
 <td width="50%">
 
-### � FastAPI Auth System
+### 🛡️ FastAPI Auth System
 **Tech:** Python, FastAPI, Poetry  
 Enterprise-grade authentication with JWT, OAuth2, and security best practices
 
@@ -178,33 +176,6 @@ Scalable Todo API with advanced database operations and type safety
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kingpin147&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9" alt="Contribution Graph" />
 
 </div>
-
----
-
-## 📝 Featured Blog Posts
-
-<table>
-<tr>
-<td width="33%">
-
-### 🤖 [Generative AI: The Future of Creativity](https://www.linkedin.com/pulse/generative-ai-future-creativity-web-developer-svxif/)
-*Exploring how AI is transforming creative workflows and development*
-
-</td>
-<td width="33%">
-
-### 🐳 [Docker & Modern Microservices](https://www.linkedin.com/pulse/docker-building-blocks-modern-microservices-unveiling-dzabf/)
-*Building blocks for scalable applications with Docker & Kubernetes*
-
-</td>
-<td width="33%">
-
-### ⚔️ [Generative AI Tool Showdown](https://www.linkedin.com/pulse/generative-ai-showdown-which-tool-reigns-supreme-web-developer-dujdf/)
-*Comparing leading AI tools for developers*
-
-</td>
-</tr>
-</table>
 
 ---
 
