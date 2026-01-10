@@ -166,10 +166,23 @@ Scalable Todo API with advanced database operations and type safety
 
 ## 📊 GitHub Analytics
 <div align="center">
-<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=kingpin147&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats-fast.vercel.app/?user=kingpin147&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-<img width="60%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kingpin147&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kingpin147&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9" alt="Contribution Graph" />
+  <!-- Stats & Streak side-by-side with better alignment -->
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=kingpin147&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://streak-stats.demolab.com/?user=kingpin147&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="100%" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Top Languages full width for better mobile/desktop fit -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kingpin147&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="60%" />
+
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kingpin147&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
