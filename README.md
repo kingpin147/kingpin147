@@ -166,9 +166,23 @@ Scalable Todo API with advanced database operations and type safety
 
 ---
 
+## 🚀 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MPhil+Computer+Science;9%2B+Years+Experience;AWS+%26+Next.js+Expert" alt="Typing SVG" />
+</div>
+
+## 🏆 Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kingpin147&theme=tokyonight&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%" />
+</div>
+
+## 🛠️ My Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,py,postgres,aws,docker,vercel,git,kafka,html,css,js&theme=dark" alt="My Skills" />
+</div>
+
 ## 📊 GitHub Analytics
 <div align="center">
-  <!-- Stats & Streak side-by-side with better alignment -->
   <table>
     <tr>
       <td width="50%">
@@ -180,13 +194,12 @@ Scalable Todo API with advanced database operations and type safety
     </tr>
   </table>
 
-  <!-- Top Languages full width for better mobile/desktop fit -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kingpin147&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="60%" />
+  <br />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kingpin147&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="70%" />
 
-  <!-- Contribution Graph -->
+  <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kingpin147&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9" alt="Contribution Graph" width="100%" />
 </div>
-
 ---
 
 ## 🤝 Let's Connect & Collaborate
